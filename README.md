@@ -2,7 +2,7 @@
 
 #### January 14, 2016
 
-#### By Chris Houghton and Trevor Elvey
+#### By Chris Houghton 
 
 ## Description
 
